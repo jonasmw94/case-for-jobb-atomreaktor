@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eiendomsverdi-atomreaktoren", "eiendomsverdi-atomreaktoren\eiendomsverdi-atomreaktoren.csproj", "{F2B1A0BA-113F-417E-B524-03E03793FF92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eiendomsverdi-atomreaktoren-tests", "eiendomsverdi-atomreaktoren-tests\eiendomsverdi-atomreaktoren-tests.csproj", "{6D31F834-9091-42FA-A2BD-BC95EE120674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B1A0BA-113F-417E-B524-03E03793FF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B1A0BA-113F-417E-B524-03E03793FF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B1A0BA-113F-417E-B524-03E03793FF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B1A0BA-113F-417E-B524-03E03793FF92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D31F834-9091-42FA-A2BD-BC95EE120674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D31F834-9091-42FA-A2BD-BC95EE120674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D31F834-9091-42FA-A2BD-BC95EE120674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D31F834-9091-42FA-A2BD-BC95EE120674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {110B9AB4-0D62-4DD4-AD32-46BF5C283B53}
+	EndGlobalSection
+EndGlobal
